@@ -13,6 +13,7 @@ included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.a
 arch = "both"
 
 [Spotify]
-version = "9.0.34.105"
-build-mode = "apk"
+enabled = true
+build-mode = "both"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+version = "9.0.30.631"

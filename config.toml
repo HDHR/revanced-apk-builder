@@ -10,8 +10,8 @@ parallel-jobs = 1
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
 included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'com.google.android.feature.PIXEL_2022_EXPERIENCE'"
-arch = "both"
+arch = "arm64-v8a"
 
 [Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-version = "9.0.36.683"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"

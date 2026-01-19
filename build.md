@@ -1,7 +1,7 @@
 Duolingo: 6.54.5  
-Google-Photos: 7.58.0.853810532  
+Google-Photos: 7.59.0.856624550  
 Music: 8.10.52  
-Strava: 441.16  
+Strava: 446.9  
 YouTube: 20.14.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -10,5 +10,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.47.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
+Patches: ReVanced/patches-5.48.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0)  
